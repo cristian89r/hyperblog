@@ -1,4 +1,4 @@
-# hyperblog
+# HYPERBLOG 👽
 
 ### Blogpost del curso de Git y GitHub de platzi.
 
