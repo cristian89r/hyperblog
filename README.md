@@ -1,4 +1,5 @@
 # hyperblog
+<<<<<<< HEAD
 
 ### Blogpost del curso de Git y GitHub de platzi.
 
@@ -12,3 +13,9 @@
 * Trucos de ambas herramientas.
 
 **Incluso este readme.md** es parte de la práctica y aprendizaje de GitHub.
+=======
+Blogpost del curso de git y github de platzi.
+
+
+## Hola
+>>>>>>> 9b5245b9c703d2e557a7ccfe275fbc26e4d5bda1
