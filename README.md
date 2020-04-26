@@ -12,5 +12,6 @@
 * Trucos de ambas herramientas.
 * Creado por Cristian Restrepo.
 * Contiene ejemplos en Linux, Mac y Wondows.
+* Disponible para todas las edades.
 
 **Incluso este readme.md** es parte de la práctica y aprendizaje de GitHub.
