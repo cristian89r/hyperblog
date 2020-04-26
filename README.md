@@ -11,7 +11,8 @@
 * Flujo de trabaj en GitHub.
 * Trucos de ambas herramientas.
 * Creado por Cristian Restrepo.
-* Contiene ejemplos en Linux, Mac y Windows.
+* Contiene ejemplos en Linux, Mac y Wondows.
 * Disponible para todas las edades.
+* Disponible para todas las plataformas.
 
 **Incluso este readme.md** es parte de la práctica y aprendizaje de GitHub.
