@@ -10,5 +10,6 @@
 * Todos los comandos de Git.
 * Flujo de trabaj en GitHub.
 * Trucos de ambas herramientas.
+* Creado por Cristian Restrepo.
 
 **Incluso este readme.md** es parte de la práctica y aprendizaje de GitHub.
